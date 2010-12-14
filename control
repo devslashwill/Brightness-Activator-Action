@@ -1,0 +1,9 @@
+Package: com.whomer.BrightnessActivator
+Name: Brightness Activator Action
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change brightness using Activator
+Maintainer: Will Homer
+Author: Will Homer
+Section: Tweaks

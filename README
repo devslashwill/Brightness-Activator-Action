@@ -1,0 +1,1 @@
+This is an activator listener / MobileSubstrate tweak that allows you to change the brightness using LibActivator. Also includes a PreferenceBundle to set the amount the brightness is changed by.

@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = "BrightnessActivatorAction";
+		cell = PSLinkCell;
+		detail = "BrightnessActivatorActionListController";
+		icon = "icon.png";
+		isController = 1;
+		label = "Brightness Activator Action";
+	};
+}
